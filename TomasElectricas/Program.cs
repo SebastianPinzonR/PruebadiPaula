@@ -5,14 +5,14 @@ class Programa
 {
     static void Main()
     {
-        Console.WriteLine("Ingrese el número de casos de prueba:");
+        //Console.WriteLine("Ingrese el número de casos de prueba:");
         int n = int.Parse(Console.ReadLine()); // Número de casos de prueba
         var procesador = new ProcesadorDeTomas();
 
         for (int i = 0; i < n; i++)
         {
-            Console.WriteLine($"Caso {i + 1}: Ingrese el número de multitomas seguido de la cantidad de tomas de cada multitoma, ");
-            Console.WriteLine("separados por espacios (ejemplo: 2 2 3):");
+            //Console.WriteLine($"Caso {i + 1}: Ingrese el número de multitomas seguido de la cantidad de tomas de cada multitoma, ");
+            //Console.WriteLine("separados por espacios (ejemplo: 2 2 3):");
             string[] entrada = Console.ReadLine().Split();
             int k = int.Parse(entrada[0]); // Número de multitomas
             var tomasPorMultitoma = new List<int>();
