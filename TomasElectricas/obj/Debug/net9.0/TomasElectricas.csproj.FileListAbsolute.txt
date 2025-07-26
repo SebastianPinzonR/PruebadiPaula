@@ -1,0 +1,14 @@
+C:\Users\sebas\source\repos\PruebadiPaula\TomasElectricas\bin\Debug\net9.0\TomasElectricas.exe
+C:\Users\sebas\source\repos\PruebadiPaula\TomasElectricas\bin\Debug\net9.0\TomasElectricas.deps.json
+C:\Users\sebas\source\repos\PruebadiPaula\TomasElectricas\bin\Debug\net9.0\TomasElectricas.runtimeconfig.json
+C:\Users\sebas\source\repos\PruebadiPaula\TomasElectricas\bin\Debug\net9.0\TomasElectricas.dll
+C:\Users\sebas\source\repos\PruebadiPaula\TomasElectricas\bin\Debug\net9.0\TomasElectricas.pdb
+C:\Users\sebas\source\repos\PruebadiPaula\TomasElectricas\obj\Debug\net9.0\TomasElectricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\PruebadiPaula\TomasElectricas\obj\Debug\net9.0\TomasElectricas.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\PruebadiPaula\TomasElectricas\obj\Debug\net9.0\TomasElectricas.AssemblyInfo.cs
+C:\Users\sebas\source\repos\PruebadiPaula\TomasElectricas\obj\Debug\net9.0\TomasElectricas.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\PruebadiPaula\TomasElectricas\obj\Debug\net9.0\TomasElectricas.dll
+C:\Users\sebas\source\repos\PruebadiPaula\TomasElectricas\obj\Debug\net9.0\refint\TomasElectricas.dll
+C:\Users\sebas\source\repos\PruebadiPaula\TomasElectricas\obj\Debug\net9.0\TomasElectricas.pdb
+C:\Users\sebas\source\repos\PruebadiPaula\TomasElectricas\obj\Debug\net9.0\TomasElectricas.genruntimeconfig.cache
+C:\Users\sebas\source\repos\PruebadiPaula\TomasElectricas\obj\Debug\net9.0\ref\TomasElectricas.dll
